@@ -1,6 +1,6 @@
 # EXIF to CSV/HTML Converter
 
-This is a command-line utility written in Go that extracts EXIF data from images and writes the attributes to a CSV file. It utilizes the [go-exif](/github.com/dsoprea/go-exif) library and its supporting following libraries
+This is a command-line utility written in Go that extracts EXIF data from images and writes the attributes to a CSV file. It utilizes the [go-exif]((https://github.com/dsoprea/go-exif) library and its supporting following libraries
 
 - [go-jpeg-image-structure](https://github.com/dsoprea/go-jpeg-image-structure)
 - [go-png-image-structure](github.com/dsoprea/go-png-image-structure)
